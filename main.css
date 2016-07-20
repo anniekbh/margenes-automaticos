@@ -1,0 +1,13 @@
+div {
+	width: 300px;
+	height: 200px;
+	border: 8px solid yellow;
+}
+.centro {
+	margin: 0 auto;
+	position: absolute;
+	left: 450px;
+}
+p {
+	padding: 25px;
+}
